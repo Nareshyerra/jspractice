@@ -10,8 +10,6 @@ let textparael = document.getElementById("textpara")
 buttonel.onclick = function() {
     parael.textContent = `Hi ${inputel.value} welcome to softpath`;
     
-    
-
 }
 
 submitbtn.onclick = function(){
@@ -19,7 +17,7 @@ textparael.textContent= `${text.value}`;
 
 
 }
-textparael.style.color= "red";
+textparael.style.color= "Yellow";
 
 
 
